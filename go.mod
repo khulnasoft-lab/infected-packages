@@ -9,7 +9,7 @@ require (
 	github.com/google/osv-scanner v1.3.6
 	github.com/google/renameio v1.0.1
 	gocloud.dev v0.34.0
-	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
+	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8
 	gopkg.in/yaml.v3 v3.0.1
 )
 
